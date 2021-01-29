@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Sause-R\u00e4tsel"
+                 "value":"Sause-Labyrinth"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,7 +142,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
